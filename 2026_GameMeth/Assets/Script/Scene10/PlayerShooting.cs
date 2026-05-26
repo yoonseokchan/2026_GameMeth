@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.InputSystem; // 신버전 인풋 시스템 추가
+using UnityEngine.InputSystem; 
 
 public class PlayerFire : MonoBehaviour
 {
