@@ -24,7 +24,7 @@ public class ReflectTest : MonoBehaviour
 
         bounceCount++;
 
-        if (bounceCount >= 4)
+        if (bounceCount >= 4    )
         {
             TriggerExplosion();
             return;
